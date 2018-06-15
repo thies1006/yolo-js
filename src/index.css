@@ -1,0 +1,47 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.up { 
+  width: 100%;
+  height: 40%;
+  margin: 50px auto;
+}
+
+.left {
+  width: 49%;
+  height: 100%;
+  float: left;
+  background-color: #f5f5f5;
+  margin-left: 10px;
+  overflow:scroll;
+}
+
+.right {
+  width: 49%;
+  height: 100%;
+  float: right;
+  background-color: #f5f5f5;
+  margin-right: 10px;
+  overflow:scroll;
+}
+
+.centrado{
+  text-align: center;
+}
+
+.todo { 
+  width: 90%; 
+  margin: 50px auto;
+  background-color: #f5f5f5; 
+}
+
+.poner_bonito { 
+  width: 90%;
+  margin: 50px auto;
+  background-color: #d6d2d2;
+  text-align: center;
+}
