@@ -1,4 +1,6 @@
 import * as tf from '@tensorflow/tfjs';
+require('babel-polyfill');
+
 
 async function getPesos() {
 
